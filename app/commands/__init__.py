@@ -3,6 +3,8 @@ commands = {
     "start": start_app,
     "help": show_help,
     "quit": quit_app,
+    "hello": hello,
+    "bye": bye,
     
 }
 
